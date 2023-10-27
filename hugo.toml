@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = 'http://localhost:1313/'
+=======
+baseURL = 'https://localhost:1313'
+>>>>>>> 8f1e2f8 (d)
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hello-friend'
