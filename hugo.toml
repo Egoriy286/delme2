@@ -1,7 +1,7 @@
-baseURL = '/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hello-friend"
+theme = 'hello-friend'
 paginate = 5
 
 [params]
